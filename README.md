@@ -1,4 +1,4 @@
-# Matchismo
+# Stanford iOS Winter 2013 Lecture Series Completed Assignments
 
 This is just a placeholder project for all completed assignments from the Stanford iOS Winter 2013 Lecture series.
 
